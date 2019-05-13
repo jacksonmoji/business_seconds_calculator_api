@@ -6,5 +6,3 @@ Workflow:
 pip install Django==2.0
 pip install djangorestframework
 pip3 install requests
-
-git
