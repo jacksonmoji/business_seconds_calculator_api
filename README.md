@@ -3,10 +3,8 @@ API end point that calculates the total number of business seconds between two g
 
 Workflow:
 
-Install Django
+pip install Django==2.0
+pip install djangorestframework
+pip3 install requests
 
-The only requirement needed for this api is request, install it with the following command:
-
-- pip3 install requests
-
-
+git
